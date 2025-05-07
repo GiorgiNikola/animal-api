@@ -1,0 +1,16 @@
+[ {
+  "id" : 1,
+  "name" : "Leo",
+  "age" : 5,
+  "favoriteFoods" : [ "pineapple", "pear" ]
+}, {
+  "id" : 2,
+  "name" : "Jack",
+  "age" : 15,
+  "favoriteFoods" : [ "Cherry", "Berry" ]
+}, {
+  "id" : 3,
+  "name" : "Claude",
+  "age" : 3,
+  "favoriteFoods" : [ "Milk" ]
+} ]
