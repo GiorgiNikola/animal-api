@@ -5,9 +5,14 @@
   "favoriteFoods" : [ "pineapple", "pear" ]
 }, {
   "id" : 2,
-  "name" : "Jack",
-  "age" : 15,
-  "favoriteFoods" : [ "Cherry", "Berry" ]
+  "name" : "Hamster",
+  "age" : 25,
+  "favoriteFoods" : [ "carrot", "milk" ]
+}, {
+  "id" : 4,
+  "name" : "Kiku",
+  "age" : 19,
+  "favoriteFoods" : [ "meat", "mcdonalds" ]
 }, {
   "id" : 3,
   "name" : "Claude",
